@@ -5,9 +5,6 @@
 - 📫 Contate-me no email: wofeitosa@gmail.com
 
 
- ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wofeitosa&show_iconstrue&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofeitosa&layout=compact&langs_count=16&theme=dracula)
- ](https://github.com/wofeitosa/github-readme-stats)
  
   
 
