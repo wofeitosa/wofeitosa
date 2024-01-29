@@ -1,7 +1,7 @@
-### Hi! I am Wagner Feitosa 👋
+### Hi! I am Wagner Oliveira 👋
 
 - 💻 Apaixonado por tecnologia
-- 🌱 Estudando html, css, javascript, typescript e react ...
+- 🌱 Estudando html, css, javascript, typescript e reactjs ...
 - 📫 Contate-me no email: wofeitosa@gmail.com
 
 
